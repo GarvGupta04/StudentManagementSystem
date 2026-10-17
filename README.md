@@ -4,7 +4,7 @@ A full-stack web application for managing student records and academic informati
 
 The application allows administrators to manage students, organize departments, and view student statistics through a clean and responsive user interface.
 
-### 🚀 Features
+## 🚀 Features
 
 - **Dashboard Overview:** View total students, department count, year-wise student statistics, and average study year.
 - **Student Management:** Add, edit, and delete student records.
